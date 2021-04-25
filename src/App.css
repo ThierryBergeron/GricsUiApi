@@ -1,0 +1,14 @@
+.App {
+    min-width: 100vw;
+    min-height: 100vh;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(201, 201, 201);
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+#query-builder-container{
+    border-radius: 5px;
+    box-shadow: 0 0 16px 5px rgba(0, 0, 0, 0.25);
+}
